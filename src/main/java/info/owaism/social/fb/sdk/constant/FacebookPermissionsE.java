@@ -8,7 +8,7 @@ package info.owaism.social.fb.sdk.constant;
 /**
  * Enum containing all Facebook Permission Scopes
  */
-public enum FacebookScopesE {
+public enum FacebookPermissionsE {
 	/**
 	 * Gets access to FB users public profile.
 	 */
